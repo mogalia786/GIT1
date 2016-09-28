@@ -24,7 +24,7 @@ class ViewController: UIViewController {
     
     func Test(AS : inout Int){
     
-        AS=100
+        AS=300
         
     }
 
