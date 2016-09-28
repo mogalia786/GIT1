@@ -25,6 +25,7 @@ class ViewController: UIViewController {
     func Test(AS : inout Int){
     
         AS=5
+
     }
 
 
